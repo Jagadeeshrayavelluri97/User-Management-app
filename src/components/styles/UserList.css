@@ -1,0 +1,45 @@
+/* UserList.css */
+
+/* User List Table */
+.user-list-table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-list-table th,
+  .user-list-table td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .user-list-table th {
+    background-color: #f4f4f9;
+    font-size: 1.1rem;
+  }
+  
+  .user-list-table td {
+    font-size: 1rem;
+  }
+  
+  button {
+    background-color: #f44336;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  
+  button:hover {
+    background-color: #e53935;
+  }
+  
+  .error-message {
+    color: red;
+    font-weight: bold;
+  }
+  

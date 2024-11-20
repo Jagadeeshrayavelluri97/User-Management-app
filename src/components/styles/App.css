@@ -1,0 +1,38 @@
+/* App.css */
+
+/* General Styles */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: #f4f4f9;
+}
+
+h1 {
+  color: #333;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.error-boundary {
+  color: red;
+  font-weight: bold;
+}

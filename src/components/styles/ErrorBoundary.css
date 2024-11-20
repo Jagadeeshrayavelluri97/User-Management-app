@@ -1,0 +1,18 @@
+/* ErrorBoundary.css */
+
+/* Error Message Styles */
+.error-boundary {
+    padding: 20px;
+    background-color: #ffcccc;
+    color: #ff0000;
+    border: 2px solid #ff0000;
+    margin: 20px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .error-boundary h2 {
+    margin: 0;
+  }
+  
